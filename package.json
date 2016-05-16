@@ -1,0 +1,28 @@
+{
+  "name": "nononode",
+  "version": "1.0.0",
+  "description": "Simple NodeJs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drydry/nononode.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Fun"
+  ],
+  "author": "Cedric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drydry/nononode/issues"
+  },
+  "homepage": "https://github.com/drydry/nononode#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "moment": "^2.13.0",
+    "mongodb": "^2.1.18"
+  }
+}
